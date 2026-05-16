@@ -2,6 +2,6 @@ package com.lab11.git;
 
 public class Main {
     public static void main(String[] args) {
-    	System.out.println("Task 3 completed");
+    	System.out.println("Task 3 Fully completed");
     }
 }
